@@ -1,1 +1,5 @@
-![下载](https://github.com/user-attachments/assets/862341ca-4dcd-4d19-afca-5124b95b4688)
+### 📊 GitHub Stats
+![Kez-Jo1909's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kez-Jo1909&show_icons=true&theme=radical)
+
+### 🚀 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kez-Jo1909&layout=compact&theme=radical)
