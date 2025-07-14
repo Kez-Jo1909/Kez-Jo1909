@@ -1,9 +1,6 @@
 Hi there
 
-Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kez-Jo1909&layout=compact&theme=swift)
-
-GitHub Stats
-
-![Kez-Jo1909's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kez-Jo1909&show_icons=true&theme=swift)
+<div align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kez-Jo1909&count_private=true&show_icons=true" />
+    &nbsp; <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kez-Jo1909&hide=CSS&layout=compact" />
+</div>
